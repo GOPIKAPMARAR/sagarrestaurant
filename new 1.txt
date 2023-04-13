@@ -1,0 +1,124 @@
+ <div class="container-fluid my-5 col-lg-12 col-md-12 mb-12 mb-md-12 col-sm-12" >
+  <!-- Footer -->
+  <footer
+          
+          style="background-color: #ffffff"
+          >
+          <!-- class="col-xs-x text-center text-lg-start text-dark" -->
+    <!-- Grid container -->
+    <div class="container-fluid my-5 col-lg-12 col-md-12 mb-12 mb-md-12 col-sm-12 col-xs">
+      <!-- Section: Links -->
+      <section >
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-lg-4 col-md-6 mb-4 mb-md-12 col-sm-4 col-xs">
+            <h5 class="text-uppercase">SAGAR HOTEL</h5>
+
+            <p>
+               Sagar  is an Indian restaurant established in 1939.
+            </p>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-2 col-md-6 mb-4 mb-md-12 col-sm-4 col-xs">
+            <h5 class="text-uppercase">ABOUT SAGAR</h5>
+
+            <ul class="list-unstyled mb-0 ">
+             
+              
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">blog</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Work with Us</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Count Us</a>
+              </li>
+            </ul>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-2 col-md-6 mb-4 mb-md-0 col-sm-4 col-xs">
+            <h5 class="text-uppercase text-decoration-none">SAGARESE</h5>
+
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">zomoto</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Blinkit</a>
+              </li>
+            
+            </ul>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-2 col-md-6 mb-4 mb-md-0 col-sm-4 col-xs">
+            <h5 class="text-uppercase">For restaurant</h5>
+
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Partner with us</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Apps For you</a>
+              </li>
+              
+            </ul>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-2 col-md-6 mb-4 mb-md-0 col-sm-4 col-xs">
+            <h5 class="text-uppercase text-decoration-none">LEARN MORE</h5>
+
+            <ul class="list-unstyled mb-0">
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Privacy</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Security</a>
+              </li>
+              <li>
+                <a href="#!" class="text-dark text-decoration-none">Terms</a>
+              </li>
+             
+            </ul>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+      <!-- Section: Links -->
+
+      <hr class="mb-4" />
+
+      
+      <section >
+        <p class="d-flex justify-content-center align-items-center">
+          <span class="me-3">     COME HERE...</span>
+          <button type="button" class="btn btn-outline-dark btn-rounded">
+            REGISTATION
+          </button><br>
+          <span class="me-3">   © 2023 Copyright:     </span>
+        </p>
+      </section>
+      <!-- Section: CTA -->
+
+      <hr class="mb-4" />
+
+      
+       
+      </section>
+     
+    </div>
+      
+        
+  </footer>
+  <!-- Footer -->
+</div>
